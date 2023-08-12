@@ -11,6 +11,9 @@ public class JavaSample {
 
 		 JavaSample obj = new JavaSample();
 		 obj.sample();
+		 System.out.println(obj);
+		 System.out.println(obj);
+		
 		
 	}
 
